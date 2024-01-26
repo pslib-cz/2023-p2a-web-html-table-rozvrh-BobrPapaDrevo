@@ -1,0 +1,30 @@
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 1.5em;
+    border: 1px solid black;
+    text-align: center;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: aqua;
+}
+
+.colgroup {
+    background-color: blueviolet;
+}
